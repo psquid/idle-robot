@@ -24,7 +24,9 @@ then run the resulting jar (produced in the `target` directory) in java with:
 
     $ java -jar idle-robot-0.1.0[-standalone].jar
     
-Alternatively, get the latest standalone snapshot jar from the repo's downloads page, and then use the last command from above, substituting in the name of the file you just downloaded (this option avoids the need to install clojure or leiningen, since everything needed is bundled).
+Alternatively, get the latest standalone snapshot jar from the repo's [downloads][] page, and then use the last command from above, substituting in the name of the file you just downloaded (this option avoids the need to install clojure or leiningen, since everything needed is bundled).
+
+[downloads]: http://github.com/psquid/idle-robot/downloads
 
 ## License
 
